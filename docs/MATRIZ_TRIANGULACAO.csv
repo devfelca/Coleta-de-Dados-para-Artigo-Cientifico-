@@ -1,0 +1,7 @@
+tema,trecho_qualitativo,codigo,indicador_quantitativo,valor,filtro_faixa_etaria,filtro_renda,filtro_escolaridade,filtro_raca_cor,fonte,observacoes
+Saúde e bem-estar,"'Passei a marcar consultas pelo app do posto'",servicos_digitais,"Uso de internet por 60+ (%)",,60+,Todos,Todos,Todos,IBGE,
+Participação social,"'Faço videochamadas com meus netos toda semana'",videochamada,"Frequência de uso semanal (%)",,,Q2-Q5,Todos,Todos,ITU,
+Acessibilidade digital,"'O celular é pequeno e confundo as letras'",usabilidade,"Propriedade de celular por 60+ (%)",,60+,Q1-Q3,Fundamental,Negros/Pardos,ITU,
+Políticas públicas,"'Curso gratuito na UBS ajudou muito'",politicas,"Taxa de alfabetização 60+ (%)",,,,Fundamental+,Todos,IBGE,
+Qualidade de vida,"'Me sinto mais independente com os apps de banco'",autonomia,"Acesso internet domiciliar (%)",,,Q3-Q5,Médio+,Todos,IBGE,
+Segurança e privacidade,"'Tenho medo de golpe no WhatsApp'",seguranca,"Incidência de golpes digitais (proxy)",,,,Todos,Todos,Outras,

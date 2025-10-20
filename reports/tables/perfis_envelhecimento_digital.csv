@@ -1,0 +1,6 @@
+,idade,idade,idade,escolaridade,escolaridade,renda,renda,horas_internet_semana,horas_internet_semana,num_dispositivos,num_dispositivos,freq_compras_online,freq_compras_online
+,mean,std,count,mean,std,mean,std,mean,std,mean,std,mean,std
+cluster_nome,,,,,,,,,,,,,
+Conectados Ativos,65.14,3.43,92,14.0,1.94,4982.67,1522.9,23.73,5.06,3.28,1.82,4.07,1.01
+Excluídos Digitais,74.98,3.8,92,5.16,1.95,1243.82,707.7,2.67,2.02,0.79,0.92,0.27,0.34
+Usuários Moderados,69.23,4.04,116,8.81,1.87,2497.5,946.43,11.52,4.57,1.91,1.38,1.47,0.82
